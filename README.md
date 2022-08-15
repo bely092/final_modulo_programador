@@ -1,5 +1,3 @@
-# final_modulo_programador
-
 <img src="ispc.png">
 <h1>Proyecto Final Modulo Programador</h1>
 <h3>Integrante: </h3>
